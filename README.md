@@ -1,6 +1,6 @@
 # Hello 👋  
 
-I'm **Khaiam** — a Python Developer with 5+ years of experience.  
+I'm a Python Developer with 5+ years of experience.  
 
 I love building projects that make technology more practical and useful for people. My journey in programming started with a simple YouTube video about Python, and since then I’ve grown from writing small scripts to leading full-stack development teams and building scalable applications.  
 
